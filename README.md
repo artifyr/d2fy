@@ -68,4 +68,4 @@ To run the Destiny STL Generator on your local machine, follow these steps:
 
 ## Disclaimer
 
-This is a hobby project and is not financed by or associated with Bungie. All item models, names, and other assets are the property of Bungie.
+This is a hobby project and is not financed by or associated with Bungie. All item models, names, and other assets are the property of Bungie!!
